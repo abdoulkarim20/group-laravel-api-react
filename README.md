@@ -1,6 +1,6 @@
 # group-laravel-api-react
 ## Pour la bonne demarche de notre projet voici les etapes a suivre pour la meilleur coloaboration
-### 1 Une fois dans le projet il faut installer la dependence composer (Pour cela il faut te mettre dans la racine du projet et installer la dependence composer aller vers la documentation pour plus savoir comment installer composer ou suivre des tuto)
+### 1 Une fois dans le projet il faut installer la dependence composer (Pour cela il faut te mettre dans la racine du projet et installer la dependence composer) Aller vers la documentation pour plus savoir comment installer composer ou suivre des tuto.
 ### 2 Que chaque membre du groupe fork le projet et cree sa propre brance (monNom/partie_nomPartie).
 ### 2.1 exemple de nom de branche (Karim/partie_Controller)
 ### 2.2 pour pusher votre travail faite le sur la brache develop (Je dis bien sur la branche develop)
